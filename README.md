@@ -1,2 +1,17 @@
-**I'm now a Holberton Student, this is my first repository as a full stack engineer**
-__I'm now a Holberton Student, this is my fisrt repository as a full stack engineer__
+# Git
+
+These are my first steps around git as a Holberton student.
+
+## Commands used
+
+```
+git add <project name>
+git clone /path/to/repository 
+git add <temp.txt> 
+git commit –m “message”
+git push  origin <branch>
+```
+
+## Expectations
+
+I trust my dedication and the motivation I have to continue advancing in the computer world.

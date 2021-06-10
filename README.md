@@ -8,7 +8,7 @@ These are my first steps around git as a Holberton student.
 git add <project name>
 git clone /path/to/repository 
 git add <temp.txt> 
-git commit –m “message”
+git commit –m “descriptive message”
 git push  origin <branch>
 ```
 
